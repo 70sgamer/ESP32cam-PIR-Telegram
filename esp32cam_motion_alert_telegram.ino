@@ -1,3 +1,4 @@
+// Credit : Chungi Fu https://github.com/fustyles
 // Enter your WiFi ssid and password
 const char* ssid     = "---------";   //WIFI SSID
 const char* password = "---------";   //WIFI password
